@@ -1,2 +1,2 @@
 # LboroDiscordBot
-A discord bot made using node.js, discord.js organised thruGitHub
+A discord bot made using node.js, discord.js organised thru GitHub

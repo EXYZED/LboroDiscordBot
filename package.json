@@ -1,0 +1,23 @@
+{
+  "name": "Loughborough_Discord_Bot",
+  "version": "0.1.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Antoan Phu",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "1.4.0",
+    "chalk": "^3.0.0",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "index.js": "0.0.3",
+    "nodemon": "^2.0.12",
+    "package.json": "^2.0.1"
+  }
+}

@@ -13,11 +13,13 @@ client.config = require("./config.json")
 
 // Initializing the project
 require("./handler")(client)
-
-client.user.setActivity("Committing war crimes", {
-    type: "CUSTOM",
-    url: "https://github.com/EXYZED/LboroDiscordBot"
-  });
+client.on("ready", () => {
+    client.user.setActivity("the LSU, committing war crimes", {
+        type: "PLAYING",
+        url: "https://github.com/EXYZED/LboroDiscordBot"
+      });
+    
+});
 
 client.login(process.env.BOT_TOKEN)
 

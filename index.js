@@ -14,7 +14,7 @@ client.config = require("./config.json")
 // Initializing the project
 require("./handler")(client)
 client.on("ready", () => {
-    client.user.setActivity("the LSU, committing war crimes", {
+    client.user.setActivity("w/ the right server.", {
         type: "PLAYING",
         url: "https://github.com/EXYZED/LboroDiscordBot"
       });

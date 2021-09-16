@@ -1,4 +1,3 @@
-# EchelonBot   [![Node.js CI](https://github.com/Asfalto-Ascari-Group/EchelonBot/actions/workflows/Action_node.js.yml/badge.svg)](https://github.com/Asfalto-Ascari-Group/EchelonBot/actions/workflows/Action_node.js.yml)
 
 ## Installation
 - Clone the repository to your computer
